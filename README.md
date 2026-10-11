@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 
-![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadsheikhesakhel-oss&show_icons=true&theme=radial)
+![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadurrehmansheikh&show_icons=true&theme=radial)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsheikhesakhel-oss&layout=compact&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadurrehmansheikh&layout=compact&theme=radial)
 
 ---
 
