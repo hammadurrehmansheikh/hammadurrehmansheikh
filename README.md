@@ -23,12 +23,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadurrehmansheikh&show_icons=true&theme=radial)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadurrehmansheikh&layout=compact&theme=radial)
-
----
-
 *Always learning, building, and exploring AI and Robotics.*
